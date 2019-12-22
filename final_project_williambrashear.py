@@ -4,7 +4,7 @@
 # In[3]:
 
 
-#William Brashear, NID: wi763542, PID: 4795191, CourseID: PHZ3150, Final Project, 11/27/2019
+#William Brashear, CourseID: PHZ3150, Final Project, 11/27/2019
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy
